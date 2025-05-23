@@ -1,6 +1,6 @@
 # Vue 3 Ui Kit
 
-<img src="https://github.com/EARodina/uikit-vue3/blob/main/app-1.png">
+<img src="https://github.com/EARodina/uikit-vue3/blob/main/app.png">
 
 
 ## 🚀 Features
